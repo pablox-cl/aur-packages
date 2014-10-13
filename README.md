@@ -9,6 +9,8 @@ Right now, I am actively maintaining:
 + ppmascii
 + ttytter-beta
 
+...or [browse the AUR](https://aur.archlinux.org/packages/?SeB=m&K=pablox)
+
 Not maintaining anymore:
 
 + gtg
